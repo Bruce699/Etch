@@ -259,6 +259,7 @@ class Handler(SimpleHTTPRequestHandler):
 
 def main():
     cli = argparse.ArgumentParser()
+    cli.add_argument("--host", default="127.0.0.1")
     cli.add_argument("--port", type=int, default=8741)
     cli.add_argument("--data", type=Path, default=ROOT / "data" / "workspace.sqlite")
     args = cli.parse_args()
@@ -273,10 +274,10 @@ def main():
             ((ROOT / "src/seed.json").read_text(),),
         )
     server = ThreadingHTTPServer(
-        ("127.0.0.1", args.port), partial(Handler, directory=ROOT)
+        (args.host, args.port), partial(Handler, directory=ROOT)
     )
     server.database = args.data
-    print(f"Etch is open at http://127.0.0.1:{args.port}", flush=True)
+    print(f"Etch is open at http://{args.host}:{args.port}", flush=True)
     server.serve_forever()
 
 
