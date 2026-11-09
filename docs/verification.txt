@@ -1,0 +1,16 @@
+PASS capture and reload
+PASS search and drag from inbox into section
+PASS external thread insertion
+PASS appearances, note color and labeled connector
+PASS vertical arrangement and independent duplicate section
+PASS generated document (Qwen2.5 · on device) with note and connector provenance
+PASS source reveal, editing and preserved branch parent
+PASS persisted documents and Markdown download
+PASS multi-selection, subcanvas, grouping, pointer reorder, inline insertion and transfer
+PASS attached image and source link persist through reload
+PASS empty canvas and invalid blank note
+PASS narrow viewport and browser error check
+PASS image-only and URL-only source notes in the extractive writer.
+PASS atomic revision check, stale-write rejection, restart persistence, invalid requests and model-offline fallback.
+PASS home assets, live canvas preview and hover magnification
+PASS seeded original document, passage reveal and pointer-dragged connection

@@ -1,0 +1,641 @@
+{
+  "schema": 1,
+  "notes": [
+    {
+      "id": "ambient",
+      "title": "Human-Centered Ambient Home Tech - Google Design",
+      "body": "Learn how to make ambient tech blend seamlessly & enhance our lives. Discover how",
+      "image": "assets/ambient.png",
+      "url": "https://design.google",
+      "logo": "assets/google.png"
+    },
+    {
+      "id": "economics",
+      "title": "AI is closer to Industrial than Software Economics",
+      "body": "Interesting thing is the fact that the ai industry is almost closer to industrial than software: variable costs are a key factor, the way to maximize revenue is not necessarily to maximize sales because compute costs (they run into issues of a paying customer incurring most costs than they pay for with their subscription) which is different from traditional software business models of simply scaling with more paying customers"
+    },
+    {
+      "id": "student",
+      "title": "Student designers lack storytelling skills",
+      "body": "One of the biggest things that have changed my design career path is the ability to talk about my work in a compelling and impactful way"
+    },
+    {
+      "id": "discomfort",
+      "title": "",
+      "body": "Seeking discomfort throughout my SVSD journey has been one of the things giving me the biggest returns\n\nCold emailing, posting online, volunteering to lead the product critique sessions, and just challenging myself to do the parts of design that I feel the least confident in"
+    },
+    {
+      "id": "imposter",
+      "title": "",
+      "body": "Sometimes I feel like I have have both imposter syndrome and high ego"
+    },
+    {
+      "id": "conversation",
+      "title": "Should AI be conversational?",
+      "body": "What if instead of framing an agent as a separate entity with a \"conversational\" interface, it was framed as an extension of you - rather than talking to \"someone\" and prompting them, the product makes YOU ai-enhanced like a cyborg lol, pointing to what i was mentioning about the human-AI interface of the future being mind-reading"
+    },
+    {
+      "id": "moat",
+      "title": "What is OpenAI’s new moat",
+      "body": "what is openai’s moat now that the llms are becoming commoditized\n\nfoundational models are becoming widely available and losing the unique value they once had\n\nfirst, openai's moat was being a \"first-mover\" and gaining brand recognition, having good models, but others are now catching up -> the quality of model is becoming less important as a differentiator and and the product and experience around the model is becoming more and more important\n\nHOWEVER these products are also becoming homogenous in a way - deep research, coding tools, voice assistant, image and video gen, etc"
+    },
+    {
+      "id": "boomer",
+      "title": "ChatGPT is a boomer product",
+      "body": "ChatGPT is kinda becoming the boomer ai product? all the cool kids are moving to the new AI stuff"
+    },
+    {
+      "id": "verge",
+      "title": "OpenAI declares ‘code red’ as Google catches up in AI race",
+      "body": "Google’s own ‘code red’ response to ChatGPT has started paying off.",
+      "image": "assets/code-red.png",
+      "url": "https://www.theverge.com",
+      "logo": "assets/verge.png"
+    },
+    {
+      "id": "hardware",
+      "title": "OpenAI’s hardware disadvantage",
+      "body": "How does OpenAI fare against hardware-focused companies? \n\ntheir focus is purely in gen ai models and software, it is unreasonably to expect them to succeed in an area of pushing the bounds of hardware innovation.",
+      "color": "pink"
+    },
+    {
+      "id": "platforms",
+      "title": "Developer Platforms for OpenAI",
+      "body": "By serving as a platform and allowing developers to build on top of OpenAI’s products, we can rapidly increase value to end-users and expand use cases for the product, while also getting more developers into the dev ecosystem of OpenAI, making a truly sticky product for end-users and sticky tool for developers and businesses"
+    },
+    {
+      "id": "agents",
+      "title": "Agentic AI and dev ecosystems",
+      "body": "And with agentic ai, everyone is racing to the bottom of the stack--that's where you benefit from \"defaults\" and where you have the most control with agentic products",
+      "color": "green"
+    },
+    {
+      "id": "unlock",
+      "title": "What AI unlocks in hardware",
+      "body": "hyper-personalization -> can take place through the context-capturing power of always-on cameras and mics\nempowering creation -> with genai for writing, code, image, and video, what is a generative creative capability that can be achieved through hardware?\napproaching determinism -> gen ai is currently not deterministic and not thus not reliable for all tasks, but models are being trained to become more and more deterministic - what can we do then with very deterministic outputs\nsocial companionship -> what forms can be taken to create ai social companion in a new physical form? humanoid robots? voice-based friends? what else is possible?",
+      "color": "peach"
+    },
+    {
+      "id": "brain",
+      "title": "",
+      "body": "Is the future gonna be human-brain interaction? \n\nWho will be the first to get to it?"
+    },
+    {
+      "id": "pin",
+      "title": "Thoughts on the Humane Pin",
+      "body": "The humane pin was really good in concept/theory, but poor in execution (and pricing model)\n\ni feel like if someone comes along and builds what the human pin was but with great execution, it would be a real game changer",
+      "color": "lilac"
+    },
+    {
+      "id": "layers",
+      "title": "Identity layers",
+      "body": "Everyone wants to be the default--but why?",
+      "image": "assets/identity.png"
+    },
+    {
+      "id": "defaults",
+      "title": "Defaults in technology",
+      "body": "Interesting to think about the importance of this in AI specifically",
+      "image": "assets/defaults.png"
+    },
+    {
+      "id": "login",
+      "title": "AI identities → “Login with OpenAI.”",
+      "body": "I wonder if there is an future of ai identities - login with OpenAI\n\nAnd then all the context and personalization your OpenAI account has been be available to platform you log into\n\nBut the major ones like Google and Microsoft already have the distribution advantage, i wonder if they'd be able to build it faster than the smaller companies"
+    },
+    {
+      "id": "taste",
+      "title": "Designing with taste",
+      "body": "What gives a product a point of view? I want to look for the details that make tools feel like they belong to the people who use them.",
+      "color": "butter"
+    },
+    {
+      "id": "writing",
+      "title": "Writing about design",
+      "body": "The ability to explain a decision can matter as much as the decision itself.",
+      "color": "green"
+    }
+  ],
+  "boards": [
+    {
+      "id": "ai",
+      "name": "Thoughts on AI",
+      "parent": null,
+      "items": [
+        {
+          "id": "ai-1",
+          "kind": "section",
+          "parent": null,
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "name": "OpenAI’s Strategy",
+          "columns": 4
+        },
+        {
+          "id": "ai-2",
+          "kind": "note",
+          "parent": "ai-1",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "moat"
+        },
+        {
+          "id": "ai-3",
+          "kind": "note",
+          "parent": "ai-1",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "verge"
+        },
+        {
+          "id": "ai-4",
+          "kind": "note",
+          "parent": "ai-1",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "hardware"
+        },
+        {
+          "id": "ai-5",
+          "kind": "note",
+          "parent": "ai-1",
+          "col": 2,
+          "x": 0,
+          "y": 0,
+          "ref": "login"
+        },
+        {
+          "id": "ai-6",
+          "kind": "section",
+          "parent": "ai-1",
+          "col": 3,
+          "x": 0,
+          "y": 0,
+          "name": "Developer Ecosystem",
+          "columns": 2
+        },
+        {
+          "id": "ai-7",
+          "kind": "note",
+          "parent": "ai-6",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "platforms"
+        },
+        {
+          "id": "ai-8",
+          "kind": "note",
+          "parent": "ai-6",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "agents"
+        },
+        {
+          "id": "ai-9",
+          "kind": "section",
+          "parent": null,
+          "col": 0,
+          "x": 0,
+          "y": 610,
+          "name": "AI Landscape",
+          "columns": 4
+        },
+        {
+          "id": "ai-10",
+          "kind": "note",
+          "parent": "ai-9",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "unlock"
+        },
+        {
+          "id": "ai-11",
+          "kind": "note",
+          "parent": "ai-9",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "brain"
+        },
+        {
+          "id": "ai-12",
+          "kind": "note",
+          "parent": "ai-9",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "pin"
+        },
+        {
+          "id": "ai-13",
+          "kind": "note",
+          "parent": "ai-9",
+          "col": 2,
+          "x": 0,
+          "y": 0,
+          "ref": "economics"
+        },
+        {
+          "id": "ai-14",
+          "kind": "section",
+          "parent": "ai-9",
+          "col": 3,
+          "x": 0,
+          "y": 0,
+          "name": "Product Thinking",
+          "columns": 2
+        },
+        {
+          "id": "ai-15",
+          "kind": "note",
+          "parent": "ai-14",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "layers"
+        },
+        {
+          "id": "ai-16",
+          "kind": "note",
+          "parent": "ai-14",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "defaults"
+        },
+        {
+          "id": "ai-17",
+          "kind": "board",
+          "parent": null,
+          "col": 0,
+          "x": 1470,
+          "y": 40,
+          "ref": "openai"
+        }
+      ]
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "parent": "ai",
+      "items": [
+        {
+          "id": "openai-1",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 280,
+          "y": 0,
+          "ref": "hardware"
+        },
+        {
+          "id": "openai-2",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 280,
+          "y": 330,
+          "ref": "platforms"
+        },
+        {
+          "id": "openai-3",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 0,
+          "y": 140,
+          "ref": "brain"
+        },
+        {
+          "id": "openai-4",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 560,
+          "y": 160,
+          "ref": "pin"
+        },
+        {
+          "id": "openai-5",
+          "kind": "board",
+          "parent": null,
+          "col": 0,
+          "x": 900,
+          "y": 110,
+          "ref": "identity"
+        }
+      ]
+    },
+    {
+      "id": "identity",
+      "name": "OpenAI as an Identity Layer",
+      "parent": "openai",
+      "items": [
+        {
+          "id": "identity-1",
+          "kind": "section",
+          "parent": null,
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "name": "Sign in with OpenAI",
+          "columns": 2
+        },
+        {
+          "id": "identity-2",
+          "kind": "note",
+          "parent": "identity-1",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "moat"
+        },
+        {
+          "id": "identity-3",
+          "kind": "note",
+          "parent": "identity-1",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "login"
+        },
+        {
+          "id": "identity-4",
+          "kind": "note",
+          "parent": "identity-1",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "layers"
+        },
+        {
+          "id": "identity-5",
+          "kind": "note",
+          "parent": "identity-1",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "defaults"
+        },
+        {
+          "id": "identity-outline",
+          "kind": "doc",
+          "ref": "original-outline",
+          "x": 740,
+          "y": 160,
+          "parent": null,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Entering the design world",
+      "parent": null,
+      "items": [
+        {
+          "id": "design-1",
+          "kind": "section",
+          "parent": null,
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "name": "Entering the design world",
+          "columns": 3
+        },
+        {
+          "id": "design-2",
+          "kind": "note",
+          "parent": "design-1",
+          "col": 0,
+          "x": 0,
+          "y": 0,
+          "ref": "taste"
+        },
+        {
+          "id": "design-3",
+          "kind": "note",
+          "parent": "design-1",
+          "col": 1,
+          "x": 0,
+          "y": 0,
+          "ref": "ambient"
+        },
+        {
+          "id": "design-4",
+          "kind": "note",
+          "parent": "design-1",
+          "col": 2,
+          "x": 0,
+          "y": 0,
+          "ref": "student"
+        },
+        {
+          "id": "design-5",
+          "kind": "note",
+          "parent": "design-1",
+          "col": 2,
+          "x": 0,
+          "y": 0,
+          "ref": "writing"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "name": "Relationships",
+      "parent": null,
+      "items": [
+        {
+          "id": "relations-1",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 50,
+          "y": 30,
+          "ref": "discomfort"
+        },
+        {
+          "id": "relations-2",
+          "kind": "note",
+          "parent": null,
+          "col": 0,
+          "x": 340,
+          "y": 130,
+          "ref": "imposter"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "hardware",
+      "target": "unlock",
+      "label": "raises a question about hardware"
+    },
+    {
+      "id": "e1",
+      "source": "agents",
+      "target": "defaults",
+      "label": "real world example"
+    },
+    {
+      "id": "e2",
+      "source": "platforms",
+      "target": "defaults",
+      "label": "explains the importance of defaults"
+    },
+    {
+      "id": "e3",
+      "source": "login",
+      "target": "layers",
+      "label": "relates to the idea of default identity providers"
+    }
+  ],
+  "documents": [
+    {
+      "id": "original-outline",
+      "board": "identity",
+      "origin": "identity-1",
+      "parent": null,
+      "prompt": "Frame an outline around OpenAI’s moat",
+      "title": "OpenAI: The New Moat",
+      "engine": "Original design example",
+      "notes": [
+        {
+          "id": "economics",
+          "title": "AI is closer to Industrial than Software Economics",
+          "body": "Interesting thing is the fact that the ai industry is almost closer to industrial than software: variable costs are a key factor, the way to maximize revenue is not necessarily to maximize sales because compute costs (they run into issues of a paying customer incurring most costs than they pay for with their subscription) which is different from traditional software business models of simply scaling with more paying customers",
+          "appearance": null
+        },
+        {
+          "id": "moat",
+          "title": "What is OpenAI’s new moat",
+          "body": "what is openai’s moat now that the llms are becoming commoditized\n\nfoundational models are becoming widely available and losing the unique value they once had\n\nfirst, openai's moat was being a \"first-mover\" and gaining brand recognition, having good models, but others are now catching up -> the quality of model is becoming less important as a differentiator and and the product and experience around the model is becoming more and more important\n\nHOWEVER these products are also becoming homogenous in a way - deep research, coding tools, voice assistant, image and video gen, etc",
+          "appearance": "identity-2"
+        },
+        {
+          "id": "platforms",
+          "title": "Developer Platforms for OpenAI",
+          "body": "By serving as a platform and allowing developers to build on top of OpenAI’s products, we can rapidly increase value to end-users and expand use cases for the product, while also getting more developers into the dev ecosystem of OpenAI, making a truly sticky product for end-users and sticky tool for developers and businesses",
+          "appearance": null
+        },
+        {
+          "id": "layers",
+          "title": "Identity layers",
+          "body": "Everyone wants to be the default--but why?",
+          "image": "assets/identity.png",
+          "appearance": "identity-4"
+        },
+        {
+          "id": "defaults",
+          "title": "Defaults in technology",
+          "body": "Interesting to think about the importance of this in AI specifically",
+          "image": "assets/defaults.png",
+          "appearance": "identity-5"
+        },
+        {
+          "id": "login",
+          "title": "AI identities → “Login with OpenAI.”",
+          "body": "I wonder if there is an future of ai identities - login with OpenAI\n\nAnd then all the context and personalization your OpenAI account has been be available to platform you log into\n\nBut the major ones like Google and Microsoft already have the distribution advantage, i wonder if they'd be able to build it faster than the smaller companies",
+          "appearance": "identity-3"
+        }
+      ],
+      "edges": [
+        {
+          "id": "e2",
+          "source": "platforms",
+          "target": "defaults",
+          "label": "explains the importance of defaults"
+        },
+        {
+          "id": "e3",
+          "source": "login",
+          "target": "layers",
+          "label": "relates to the idea of default identity providers"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "The End of Model-Based Moats",
+          "points": [
+            "LLM quality is converging; foundational models are increasingly commoditized.",
+            "Being first-mover gave OpenAI early advantage, but the gap is shrinking.",
+            "If the model itself is no longer the moat → where does the defensibility come from?"
+          ],
+          "sources": [
+            "moat"
+          ]
+        },
+        {
+          "heading": "The New Shift: Experience, Ecosystem, and Defaults",
+          "points": [
+            "Frontier models no longer act as the differentiator they once were.",
+            "Everyone ships:",
+            "deep research tools",
+            "code assistants",
+            "voice agents",
+            "image/video generation",
+            "agentic task runners",
+            "Experiences across providers are converging.",
+            "Distribution advantage lies with Google, Apple, Microsoft, not OpenAI.",
+            "Key insight: If quality converges, the moat must move up the stack."
+          ],
+          "sources": [
+            "moat",
+            "defaults",
+            "platforms"
+          ]
+        },
+        {
+          "heading": "Why OpenAI Needs a New Moat",
+          "points": [
+            "First-mover advantage and “best model” advantage were temporary.",
+            "The space looks more like industrial economics than software:",
+            "High variable compute costs.",
+            "Scaling revenue ≠ scaling margins.",
+            "Harder for smaller players to compete against distribution giants.",
+            "OpenAI needs a moat that:",
+            "Reinforces usage,",
+            "Reduces switching costs,",
+            "And compounds in value over time.",
+            "That moat is identity."
+          ],
+          "sources": [
+            "moat",
+            "economics"
+          ]
+        },
+        {
+          "heading": "The Case for AI Identities",
+          "points": [
+            "Users already treat ChatGPT as “the AI that knows me”",
+            "This is the closest thing to a persistent digital self that people have ever used.",
+            "AI that knows you becomes irreplaceable if it understands your: context, projects, relationships, taste, habits, working patterns, then switching providers becomes as painful as switching brains."
+          ],
+          "sources": [
+            "login",
+            "layers"
+          ]
+        }
+      ]
+    }
+  ],
+  "recent": [
+    "ai",
+    "openai",
+    "design",
+    "identity",
+    "relations"
+  ],
+  "profile": "Rachel Chen",
+  "writingHistory": []
+}
