@@ -30,6 +30,8 @@ For another platform, start a local llama.cpp server with a compatible instructi
 
 ## Data and recovery
 
+The hosted Open Layer preview stores its workspace in `.cache/etch/workspace.sqlite`, outside preview file watching so SQLite journal writes cannot reload the page. Preview setup copies an existing `data/workspace.sqlite` there once, including committed WAL contents; subsequent starts keep the hosted workspace. Back up the hosted database from `.cache/etch`.
+
 The app listens on loopback and stores notes, image attachments, canvases, placements, connections and documents in `data/workspace.sqlite`. To back up the whole workspace, stop the launcher and copy the data folder. The initial state comes from `src/seed.json` on the first launch. The original note IDs connect appearances across canvases. Documents preserve a snapshot of their source text and relationship labels. Simultaneous edits in a second browser window trigger a revision-conflict recovery message.
 
 ## Source and tests

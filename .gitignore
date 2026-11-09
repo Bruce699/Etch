@@ -1,4 +1,5 @@
 .runtime/
+.cache/
 data/
 .venv/
 __pycache__/
